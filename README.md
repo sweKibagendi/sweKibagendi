@@ -1,6 +1,5 @@
 **Hi, I’m Wesley Kibagendi:**
 - 👀 I’m currently working on Flutter Projects
-- 🌱 I’m currently learning C and GoLang
 - 💞️ I’m looking to collaborate on Flutter projects
 
 <!---
